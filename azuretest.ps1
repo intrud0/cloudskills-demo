@@ -1,0 +1,1 @@
+az group create -l ap-southeast-1 -n test1234123
